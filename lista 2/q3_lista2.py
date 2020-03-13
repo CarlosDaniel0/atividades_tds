@@ -5,11 +5,10 @@ for i in range(5):
     l[i] = randint(1, 60)
 
 l2 = l[:]
-i = 4
 
 #a)
-print(l)
+print("Lista normal:", l)
 
 #b)
 l2.reverse()
-print(l2)
+print("Lista invertida:", l2)

@@ -25,4 +25,3 @@ for i in range(len(l)):
 print("Lista l: ", l)
 print("O maior número da lista é: {} e está na posição: {}".format(maior, p_1))
 print("O menor número da lista é: {} e está na posição: {}".format(menor, p_2))
-print(sum(l)/len(l))
